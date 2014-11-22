@@ -57,18 +57,10 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: 
-
-
 "Avg. Metric Value": An average measurement of any of the above metrics for a specific participant doing a specific activity.
 can either be the average or standard deviation	of the field listed above.	
 
 
-
-#####################################################################################################################
-THE ABOVE FEATURES ARE THE AVAILABLE OBSERVATIONS IN THE FIELD METRIC DESRIPTION IN THE tidyDatafinal.txt DATA SET
-CREATED BY THE SCRIPT
-#####################################################################################################################
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
