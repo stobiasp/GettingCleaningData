@@ -16,10 +16,10 @@ THE SCRIPT WILL FAIL IF THE FILES ARE NOT LOCATED IN THE USER'S WORKING DIRECTOR
 The process will take these files and save out a new data set called tidyDatafinal.txt which is a pipe delimited file 
 with the following fields:
 
-CODE BOOK
+<b>CODE BOOK</b>
 <b>"Activity Name"</b>: A description of the activity <br/>
-"Subject ID": The participant's id  <br/>
-"Avg. Metric Value" : an average value of a participant during a specific activity for a specific measurement  <br/>
-"Metric Name":  The name of the measurement.  <br/>
+<b>"Subject ID"</b>: The participant's id  <br/>
+<b>"Avg. Metric Value"</b> : an average value of a participant during a specific activity for a specific measurement  <br/>
+<b>"Metric Name"</b>:  The name of the measurement.  <br/>
 A background on these measurements can be found in the source data in a file named : features_info.txt
 
