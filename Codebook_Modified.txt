@@ -33,6 +33,10 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
+#####################################################################################################################
+THE ABOVE FEATURES ARE THE AVAILABLE OBSERVATIONS IN THE FIELD METRIC DESRIPTION IN THE tidyDatafinal.txt DATA SET
+CREATED BY THE SCRIPT
+#####################################################################################################################
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
