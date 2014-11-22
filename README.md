@@ -17,7 +17,7 @@ The process will take these files and save out a new data set called tidyDatafin
 with the following fields:
 
 CODE BOOK
-"Activity Name": A description of the activity
+"Activity Name": A description of the activity <br/>
 "Subject ID": The participant's id
 "Avg. Metric Value" : an average value of a participant during a specific activity for a specific measurement
 "Metric Name":  The name of the measurement. A background on these measurements can be found in the source data in a file named : features_info.txt
